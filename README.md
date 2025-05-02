@@ -23,4 +23,4 @@ https://github.com/SyncfusionExamples/Binding-data-and-perform-action-in-ej2-asp
 * Open the project in Visual Studio.
 * Run the project
 
-![Adaptors](./image/ajaxrequest.gif
+![Adaptors](./image/ajaxrequest.gif)
