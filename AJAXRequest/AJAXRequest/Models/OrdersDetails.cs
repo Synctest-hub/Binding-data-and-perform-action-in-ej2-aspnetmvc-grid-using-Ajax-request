@@ -9,7 +9,6 @@ namespace AJAXRequest.Models
     {
         public OrdersDetails()
         {
-
         }
         public OrdersDetails(int OrderID, string CustomerId, int EmployeeId, double Freight, bool Verified, DateTime OrderDate, string ShipCity, string ShipName, string ShipCountry, DateTime ShippedDate, string ShipAddress)
         {
